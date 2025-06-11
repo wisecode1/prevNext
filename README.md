@@ -20,23 +20,9 @@ This component is maintained and improved with guidance from
 Wise Code Studio — experts in React, Next.js, Tailwind CSS, and full-stack app development.
 
 Need a fast, scalable digital product?
-Visit → https://wisecodestudio.com
+Visit → https://wisecodestudio.com/
 
----
 
-### 📌 Instructions:
-
-1. Is pura content ko **copy** karo
-2. Paste karo [README.md editor](https://github.com/wisecode1/prevNext/edit/master/README.md) mein
-3. **Commit message** likho:
-
----
-
-### 📌 Instructions:
-
-1. Is pura content ko **copy** karo
-2. Paste karo [README.md editor](https://github.com/wisecode1/prevNext/edit/master/README.md) mein
-3. **Commit message** likho:
 
 
 
