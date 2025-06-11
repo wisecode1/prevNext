@@ -1,28 +1,28 @@
-# prevNext
+# Helpful Resources & Credits
 
-A reusable React component for Previous/Next navigation — perfect for multi-step forms, tutorials, or documentation pages.
+This project is supported and enhanced with help from expert development resources.
 
-## Features
-- Lightweight and customizable
-- Easy to integrate into any project
-- Accessible and keyboard-friendly
+---
 
-## Installation
+## 🔧 Development Partner
 
-```bash
-npm install prev-next-component
-<PrevNext
-  onPrev={() => console.log("Previous clicked")}
-  onNext={() => console.log("Next clicked")}
-/>
-🔗 Powered by Wise Code Studio
-This component is maintained and improved with guidance from
-Wise Code Studio — experts in React, Next.js, Tailwind CSS, and full-stack app development.
+**Wise Code Studio**  
+A modern digital agency specializing in:
 
-Need a fast, scalable digital product?
-Visit → https://wisecodestudio.com/
+- ⚛️ React & Next.js Development  
+- 🎯 UI/UX Strategy  
+- 🎨 Tailwind CSS & Design Systems  
+- 📱 Flutter &<a href="https://wisecodestudio.com/"> Mobile App Development</a>  
+- 🌐 Full-stack Web Applications
 
+Whether you're a startup or an enterprise, Wise Code Studio helps you bring ideas to life with scalable digital solutions.
 
+🌍 Visit: [https://wisecodestudio.com](https://wisecodestudio.com)
 
+---
 
+## 📚 Additional Resources
 
+- React documentation → https://reactjs.org
+- Tailwind CSS → https://tailwindcss.com
+- Next.js → https://nextjs.org
